@@ -3,8 +3,8 @@
 ## ASCII-image
 Manipulação de imagem pra transformar os pixels em caracteres respeitando densidade visual usando Processing modo Python.
 
-<img src="https://github.com/rgobatto/python-studies/assets/49801781/bf49e851-89d0-4a77-b21f-c41d46dd99c2" alt="AsciiSelfie_01" width="400"/>
-<img src="https://github.com/rgobatto/python-studies/assets/49801781/04452691-865a-4418-939a-f395a7b1082e" alt="AsciiSelfie_02" width="400"/>
+<img src="https://github.com/rgobatto/python-studies/assets/49801781/bf49e851-89d0-4a77-b21f-c41d46dd99c2" alt="AsciiSelfie_01" width="350"/>
+<img src="https://github.com/rgobatto/python-studies/assets/49801781/04452691-865a-4418-939a-f395a7b1082e" alt="AsciiSelfie_02" width="350"/>
 
 ## circular-pattern
 Tentei reproduzir um padrão de círculos e arcos de uma imagem que vi por ai usando Thonny py5 mode.
